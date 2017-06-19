@@ -20,7 +20,7 @@ Some Windows PowerShell scripts
   * Note: Performs automatic reboot
 &nbsp;
 
-* **install-docker-tools**
+* **install-docker-tools.ps1**
   * Install docker-compose-Windows-x86_64.exe from github/docker/compose/releases/download/ repo
   * Install choco package manager (ref chocolatey.org)
   * Pulls docker images; microsoft/windowsservercore and microsoft/nanoserver
